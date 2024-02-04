@@ -1,0 +1,10 @@
+E:\BS2325 Visual Programming\Colors\bin\Debug\Colors.exe.config
+E:\BS2325 Visual Programming\Colors\bin\Debug\Colors.exe
+E:\BS2325 Visual Programming\Colors\bin\Debug\Colors.pdb
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.csproj.AssemblyReference.cache
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.Form1.resources
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.Properties.Resources.resources
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.exe
+E:\BS2325 Visual Programming\Colors\obj\Debug\Colors.pdb

@@ -1,0 +1,7 @@
+E:\BS2325 Visual Programming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\BS2325 Visual Programming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\BS2325 Visual Programming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\BS2325 Visual Programming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\BS2325 Visual Programming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\BS2325 Visual Programming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\BS2325 Visual Programming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

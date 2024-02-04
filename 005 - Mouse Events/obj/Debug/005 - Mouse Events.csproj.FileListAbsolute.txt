@@ -1,0 +1,10 @@
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\bin\Debug\005 - Mouse Events.exe.config
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\bin\Debug\005 - Mouse Events.exe
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\bin\Debug\005 - Mouse Events.pdb
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\_005___Mouse_Events.Form1.resources
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\_005___Mouse_Events.Properties.Resources.resources
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\005 - Mouse Events.csproj.GenerateResource.cache
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\005 - Mouse Events.csproj.CoreCompileInputs.cache
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\005 - Mouse Events.exe
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\005 - Mouse Events.pdb
+E:\Git Projects\Visual-Programming---Basic-Concepts\005 - Mouse Events\obj\Debug\005 - Mouse Events.csproj.AssemblyReference.cache

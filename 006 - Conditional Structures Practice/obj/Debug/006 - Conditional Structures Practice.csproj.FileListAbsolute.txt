@@ -1,0 +1,7 @@
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\bin\Debug\006 - Conditional Structures Practice.exe.config
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\bin\Debug\006 - Conditional Structures Practice.exe
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\bin\Debug\006 - Conditional Structures Practice.pdb
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\obj\Debug\006 - Conditional Structures Practice.csproj.AssemblyReference.cache
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\obj\Debug\006 - Conditional Structures Practice.csproj.CoreCompileInputs.cache
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\obj\Debug\006 - Conditional Structures Practice.exe
+E:\BS2325 Visual Programming\006 - Conditional Structures Practice\obj\Debug\006 - Conditional Structures Practice.pdb

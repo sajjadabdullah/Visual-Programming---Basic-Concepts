@@ -1,0 +1,7 @@
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\bin\Debug\007 - Functions Practice.exe.config
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\bin\Debug\007 - Functions Practice.exe
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\bin\Debug\007 - Functions Practice.pdb
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\obj\Debug\007 - Functions Practice.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\obj\Debug\007 - Functions Practice.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\obj\Debug\007 - Functions Practice.exe
+E:\Visual-Programming---Basic-Concepts\007 - Functions Practice\obj\Debug\007 - Functions Practice.pdb

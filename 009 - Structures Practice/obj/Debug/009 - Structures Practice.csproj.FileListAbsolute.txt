@@ -1,0 +1,7 @@
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\bin\Debug\009 - Structures Practice.exe.config
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\bin\Debug\009 - Structures Practice.exe
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\bin\Debug\009 - Structures Practice.pdb
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\obj\Debug\009 - Structures Practice.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\obj\Debug\009 - Structures Practice.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\obj\Debug\009 - Structures Practice.exe
+E:\Visual-Programming---Basic-Concepts\009 - Structures Practice\obj\Debug\009 - Structures Practice.pdb

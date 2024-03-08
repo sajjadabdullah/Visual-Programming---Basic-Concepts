@@ -1,0 +1,7 @@
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\bin\Debug\008 - Arrays Practice.exe.config
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\bin\Debug\008 - Arrays Practice.exe
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\bin\Debug\008 - Arrays Practice.pdb
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\obj\Debug\008 - Arrays Practice.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\obj\Debug\008 - Arrays Practice.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\obj\Debug\008 - Arrays Practice.exe
+E:\Visual-Programming---Basic-Concepts\008 - Arrays Practice\obj\Debug\008 - Arrays Practice.pdb

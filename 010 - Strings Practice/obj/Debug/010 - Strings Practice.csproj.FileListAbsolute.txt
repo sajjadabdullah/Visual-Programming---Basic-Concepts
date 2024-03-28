@@ -1,0 +1,7 @@
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\bin\Debug\010 - Strings Practice.exe.config
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\bin\Debug\010 - Strings Practice.exe
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\bin\Debug\010 - Strings Practice.pdb
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\obj\Debug\010 - Strings Practice.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\obj\Debug\010 - Strings Practice.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\obj\Debug\010 - Strings Practice.exe
+E:\Visual-Programming---Basic-Concepts\010 - Strings Practice\obj\Debug\010 - Strings Practice.pdb

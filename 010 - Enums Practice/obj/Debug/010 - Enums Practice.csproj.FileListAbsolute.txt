@@ -1,0 +1,7 @@
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\bin\Debug\010 - Enums Practice.exe.config
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\bin\Debug\010 - Enums Practice.exe
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\bin\Debug\010 - Enums Practice.pdb
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\obj\Debug\010 - Enums Practice.csproj.AssemblyReference.cache
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\obj\Debug\010 - Enums Practice.csproj.CoreCompileInputs.cache
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\obj\Debug\010 - Enums Practice.exe
+E:\Visual-Programming---Basic-Concepts\010 - Enums Practice\obj\Debug\010 - Enums Practice.pdb
